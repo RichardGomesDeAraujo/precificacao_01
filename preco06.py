@@ -10,7 +10,7 @@ while vc == 0:
         print('\033[33mValor Incorreto! Por favor, informe o valor correto\033[m')
 while margem == 0:
     try:
-        margem = int(input('Digite o Percentual de Margem de Lucro Desejado: '))
+        margem = float(input('Digite o Percentual de Margem de Lucro Desejado: '))
     except:
         print('\033[33mMargem Incorreta! Por favor, informe a margem novamente\033[m')
 print('''\033[37mEm Qual Regime Tributário está a sua Empresa?
