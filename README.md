@@ -23,7 +23,7 @@ O programa solicita ao usuário as seguintes informações:
 
 ## Tecnologias Utilizadas
 - Python
-  - Nesse projeto foi utilizado os seguintes comandos:
+  - Neste projeto foram utilizados os seguintes comandos:
       - If
       - While
       - Try / Except
