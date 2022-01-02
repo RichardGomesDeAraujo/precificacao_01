@@ -19,7 +19,7 @@ O programa solicita ao usuário as seguintes informações:
 - Projeto realizado por Richard Gomes de Araújo
    - [**Linkedin**](https://www.linkedin.com/in/richardaraujoanalistadedados/)
    - [**Artigo com mais informações do projeto**](https://www.linkedin.com/pulse/precifica%C3%A7%C3%A3o-em-python-richard-gomes-de-araujo/)
-   - [**Projeto**](preço_06) - Acesso ao código
+   - [**Projeto**](https://github.com/RichardGomesDeAraujo/precificacao_01/blob/main/preco06.py) - Acesso ao código
 
 ## Tecnologias Utilizadas
 - Python
