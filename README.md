@@ -1,3 +1,5 @@
+<img src="HOD.png" align="Center" alt="Hands On Data" style="height: 180px; width:260px;"/>
+
 ># Projeto em Python
 
 ## Objetivo
